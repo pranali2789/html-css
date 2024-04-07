@@ -1,0 +1,50 @@
+/* h1{
+    color:green;
+}
+
+P{
+    color:blueviolet;
+}
+
+button{
+    color:green;
+    background-color:azure;
+}
+
+body{
+    background-color:lightblue;
+} */
+
+*{
+    color:brown;
+}
+h1{
+    color:blue;
+}
+button{
+    color:green;
+}
+
+#headingone{
+    color: yellowgreen;
+}
+#headingtwo{
+    color: magenta;
+}
+.myclass{
+    color:pink;
+}
+#box{
+    background-color: lightskyblue;
+}
+
+p1{
+    text-align: end;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
